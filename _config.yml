@@ -1,6 +1,6 @@
 title: Jekyll Theme
 logo: /assets/images/logo.avif
-url: https://nasa19c.github.io/
+url: "https://nasa19c.github.io/"
 baseurl: ""
 
 collections:
