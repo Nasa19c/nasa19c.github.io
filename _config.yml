@@ -18,7 +18,7 @@ rrss:
 plugins:
   - jekyll-archives
   - jekyll-seo-tag
-  - jekyll-polyglot
+  # - jekyll-polyglot
 
 languages: ["en"]
 default_lang: "en"
